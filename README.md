@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Free Wi-Fi](kulisek.itch.io/free-wifi)
 
-- 🌱 I’m currently learning **ASP.NET Core**
+- 🌱 I’m currently learning **Unity & Machine Learning**
 
 - 💬 Ask me about **Python, C#**
 
