@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://hnateklukas.xyz/about](https://hnateklukas.xyz/about)
 
-- 💬 Ask me about **Flask, Python, C#, Discord.py**
+- 💬 Ask me about **Flask, Python, Discord.py**
 
 - 📫 How to reach me **luke@kulisek.site**
 
