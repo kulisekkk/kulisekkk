@@ -8,7 +8,7 @@
 
 - 🌱 I'm currently learning **Unity, Kotlin for android apps**
 
-- 💬 Ask me about **Python ~ Discordpy, Quart, **
+- 💬 Ask me about **Python ~ Discordpy, Quart or IT stuff i might know**
 
 - 📫 How to reach me **kulisekk@proton.me**
 
