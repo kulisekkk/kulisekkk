@@ -1,9 +1,5 @@
 # Hi 👋, I'm Lukáš
 
-### Hnátek
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kulisekkk&label=Profile views&color=0e75b6&style=flat" alt="kulisekkk" /> </p>
-
 - 🔭 I'm currently working on **a Unity game**
 
 - 🌱 I'm currently learning **Unity, Kotlin for android apps**
