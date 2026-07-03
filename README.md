@@ -6,13 +6,13 @@
 
 - 🔭 I'm currently working on **a Unity game**
 
-- 🌱 I'm currently learning **Unity, Windows Presentation Foundation (WPF)**
+- 🌱 I'm currently learning **Unity, Kotlin for android apps**
 
-- 💬 Ask me about **Python : Discordpy, Quart, Flask**
+- 💬 Ask me about **Python = Discordpy, Quart, **
 
-- 📫 How to reach me **luke@kulisek.site**
+- 📫 How to reach me **kulisekk@proton.me**
 
-- ⚡ Fun fact **im actually an overthinker**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
